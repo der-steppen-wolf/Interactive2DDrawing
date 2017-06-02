@@ -1,2 +1,5 @@
 # Interactive2DDrawing
-Deitel book excersice
+
+Deitel book excersice in Java
+
+### (#)Issue with non serializable classes when saving drawings
