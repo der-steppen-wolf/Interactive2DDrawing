@@ -2,8 +2,8 @@
 
 Deitel book excersice in Java
 
-To draw run clone and compile java files and run *TestDrive.java*
+To draw clone and compile java files and run *TestDrive.java*
 
-or download and double click on *jar* file.
+or download (__view Raw__) and open *jar* file.
 
 ### (#)Issue with non serializable classes when saving drawings
